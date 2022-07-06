@@ -4,7 +4,7 @@ public class GlobalRating {
     static Score[] data;
 
     static {
-        // Score d1 = new Score();
+      
         data = new Score[4];
         data[0] = new Score();
         data[0].category = "views";
